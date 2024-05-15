@@ -1,0 +1,4 @@
+github.com/GnvSaikiran/hello v1.1.0 h1:NijFMb+YtFTMWpJj/2fNKbrc9ikyrv/U8vo7uptgNFA=
+github.com/GnvSaikiran/hello v1.1.0/go.mod h1:p0XC+PBokIPb7sViBMVH4zAB1VG1yT0/nW2ZRPh+eVo=
+github.com/GnvSaikiran/hello/v2 v2.0.0 h1:T0XBG6bz8B9VrjqycEEcoHG5LJRiZwI39MifpvNSdlk=
+github.com/GnvSaikiran/hello/v2 v2.0.0/go.mod h1:NwebXufOjnXDvylRhGRddJOf9fRBTddd7TQoTqNqNsE=
